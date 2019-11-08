@@ -1,0 +1,6 @@
+.stack-work/
+haskell-playground.cabal
+*.sqlite
+*~
+# Project exclude paths
+/out/
